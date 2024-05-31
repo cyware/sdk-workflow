@@ -1,0 +1,11 @@
+{
+  "name": "@cyware/sdk-workflow",
+  "version": "0.37.0",
+  "description": "Typing for the Cyware Workflow SDK",
+  "author": "Cyware Labs Inc. <security@khulnasoft.com>",
+  "license": "MIT",
+  "types": "./src/index.d.ts",
+  "files": [
+    "src/*"
+  ]
+}
